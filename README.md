@@ -3,4 +3,4 @@ First test repository
 
 Hello World,
 
-This is my forst project on GitHub.
+This is my first project on GitHub.
